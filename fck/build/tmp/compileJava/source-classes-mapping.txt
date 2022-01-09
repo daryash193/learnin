@@ -1,2 +1,2 @@
-ITried.java
- ITried
+by/newprog/qa/ITried.java
+ by.newprog.qa.ITried
